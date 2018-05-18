@@ -15,13 +15,13 @@
                             $article_content_a = mysql_fetch_assoc($article_a);
                             $id = $article_content_a['id'];
                             $article_title_a = $article_content_a['title'];
-                            if(mb_strlen($article_title_a,"utf-8") > 12){
+                           /* if(mb_strlen($article_title_a,"utf-8") > 12){
                                 $article_title_ar = mb_substr($article_title_a,0,12,"utf-8");
                                 $article_title_ar= $article_title_ar.'...';
                             }
-                            else{
+                            else{*/
                                 $article_title_ar = $article_title_a;
-                            }
+                         /*   }*/
                             $type = $article_content_a['article_type'];
                             $year = $article_content_a['year'];
                             $month = $article_content_a['month'];
