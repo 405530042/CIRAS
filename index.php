@@ -4,13 +4,7 @@
 	<?php include('templates/_head.php'); ?>
 </head>
 <body id="body">
-	<div id="head">
-				<div id="nav">
 <?php include('templates/_nav.php'); ?>
-				</div>
-			</div>
-		</div>
-	</div>
 	<div class="bw"></div>
 	<div id="head_photo">
 		<div id="head_img">
@@ -28,7 +22,7 @@
 				</td>
 				<td>
 					<div id='topic'>
-					<?php include('recentevent.php');?>
+<h1>建置中</h1>
 					</div>
 				</td>
 			  </tr>
