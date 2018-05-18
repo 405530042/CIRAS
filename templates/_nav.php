@@ -1,7 +1,7 @@
 <div id="head">
 	<div class="container">
 			<div id="head_icon">
-				<a href="http://agei.ccu.edu.tw/CIRAS"><img src="#" width=270px height=130px></a>
+				<a href="http://agei.ccu.edu.tw/CIRAS"><img src="images/logo.png" height="75" style="margin:30px 0"></a>
 			</div>
 	</div>
 	<div class="container">

@@ -9,6 +9,7 @@ ul li{
 	list-style-position: outside;
 }
 p{
+	width:80%;
 	color:#616161;
 	font-size: 1.5em;
 	font-family:'Microsoft JhengHei';
@@ -125,7 +126,7 @@ a {
 	text-align: left;
 }
 #content ul{
-	width:20em;
+	width:50%;
 }
 #footer{
 	margin:20px auto 10px auto;
@@ -142,7 +143,7 @@ a {
 	width :100%;
 }
 #constpic img{
-	width :100%;
+	width :80%;
 }
 #member p {
 	font-size: 1.5em;
@@ -170,6 +171,19 @@ a {
 	margin: 0 auto;
 }
 #recent{
+	clear: left;
+	width: 100%;
+	border-top: none;
+	margin: 5em 0;
+}
+#recent ul{
+	width: 80%;
+	font-size: 2em;
+	line-height: 1.2em;
+
+}
+#recent li{
+	line-height: 1.2em;
 	overflow:hidden;
 	text-overflow: ellipsis;
 	white-space:nowrap;
@@ -187,6 +201,9 @@ a {
 	#swotpic {
 		width: 340px;
 	}
+	#recent ul{
+		width: 65%;
+	}
 }
 @media screen and (min-width: 1200px){
 	
@@ -195,5 +212,8 @@ a {
     }
     #swotpic {
 		width: 465px;
+	}
+	#recent ul{
+		width:70%;
 	}
 }
