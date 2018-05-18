@@ -4,32 +4,19 @@
 	<?php include('templates/_head.php'); ?>
 </head>
 <body id="body">
-	<div id="head">
-		<div class="container">
-			<div id="head_icon">
-				<a href="http://agei.ccu.edu.tw/CIRAS"><img src="#" width=270px height=130px></a>
-			</div>
-		</div>
-		<div class="container">
-			<div id="head_txt">
-				<div id="upon">
-<?php include('templates/_upon.php'); ?>
-    			</div>
-				<div id="nav">
-<?php include('templates/_nav.php'); ?>
-				</div>
-			</div>
+	<?php include('templates/_nav.php'); ?>
+	<div class="bw"></div>
+	<div id="head_photo">
+		<div id="head_img">
 		</div>
 	</div>
-	<div class="bw"></div>
-	
 	<div id="page">
 		<div id="content">
 			<table>
 			  <tr>
 				<td>
 					<div id="list">
-<?php include('templates/_list.php'); ?>
+						<?php include('templates/_list.php'); ?>
 					</div>
 				</td>
 				<td>

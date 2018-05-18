@@ -9,7 +9,6 @@ ul li{
 	list-style-position: outside;
 }
 p{
-	width:80%;
 	color:#616161;
 	font-size: 1.5em;
 	font-family:'Microsoft JhengHei';
@@ -126,7 +125,7 @@ a {
 	text-align: left;
 }
 #content ul{
-	width:50%;
+	width:20em;
 }
 #footer{
 	margin:20px auto 10px auto;
@@ -143,7 +142,7 @@ a {
 	width :100%;
 }
 #constpic img{
-	width :80%;
+	width :100%;
 }
 #member p {
 	font-size: 1.5em;
@@ -174,10 +173,9 @@ a {
 	clear: left;
 	width: 100%;
 	border-top: none;
-	margin: 5em 0;
+	margin: 5em auto;
 }
 #recent ul{
-	width: 80%;
 	font-size: 2em;
 	line-height: 1.2em;
 
@@ -192,6 +190,9 @@ a {
 	.container, #page, #footer {
 		width: 768px;
 	}
+	#recent ul{
+		width: 768px;
+	}
 }
 @media screen and (min-width: 950px){
 
@@ -202,7 +203,7 @@ a {
 		width: 340px;
 	}
 	#recent ul{
-		width: 65%;
+		width: 950px;
 	}
 }
 @media screen and (min-width: 1200px){
@@ -214,6 +215,6 @@ a {
 		width: 465px;
 	}
 	#recent ul{
-		width:70%;
+		width: 1200px;
 	}
 }
