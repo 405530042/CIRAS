@@ -1,0 +1,194 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    direction: ltr;
+    width:100%;
+}
+ul li{
+	list-style-type: none;
+	list-style-position: outside;
+}
+p{
+	color:#616161;
+	font-size: 1.5em;
+	font-family:'Microsoft JhengHei';
+	text-indent: 2em;
+	line-height: 1.5em;
+	margin: 1.5em 0;
+}
+td {
+	vertical-align:text-top;
+}
+a {
+	color: #298cca;
+	text-decoration: none;
+}
+#head{
+	width :100%;
+	position: fixed;
+	background: #fff;
+	z-index: 999;
+}
+#head_icon {
+	float : left;
+}
+
+#head_img{
+	display: flex;
+			height:405px;
+	margin: 30px 0 20px 0;
+		background-image: url("../images/headicon.png") ;
+		background-repeat: no-repeat;
+		background-position:top;
+		text-align:center;
+		align-items: flex-end;
+		justify-content: center;
+}
+
+#head_img h2{
+	color:#fff;
+	font-size: 3em;
+    margin: 0 0;
+}
+#head_txt{
+	float: right;
+}
+#nav{
+	margin :75px auto 0px auto;
+}
+#nav ul{
+	border-bottom: 1px solid rgba(0,0,0,0.08);
+	display: flex;
+	margin :0;
+	padding:0;
+	text-align: left;
+	list-style-type:none;
+}
+#nav ul li{
+	color: #222;
+	font-size:16px;
+    font-weight: 600;
+	margin:0 3px;
+	padding:0px 10px;
+}
+#nav ul li:hover{
+	border-bottom:2px solid #52a1d2;
+}
+#nav ul li.active  {
+	border-bottom:2px solid #52a1d2;
+}
+#nav ul li a{
+	color: #222;
+	line-height: 30px;
+	text-decoration: none;
+}
+#upon{
+	padding-left: 310px;
+}
+#upon ul{
+	display: flex;
+}
+#upon ul li a {
+	font-size: 14px;
+}
+#list{
+	margin:26px auto 0 auto;
+	padding: 0 0 0 16px;
+	font-size: 12px;
+}
+#list ul {
+	padding: 0;
+}
+#list ul li {
+	margin: 2px 0;
+	font-weight:bold;
+}
+#list ul ul li {
+	font-weight:normal;
+	margin-left: 20px;
+}
+#list ul ul ul li {
+	margin-left: 20px;
+	width: 110px;
+}
+#page {
+	margin:0 auto;
+}
+#content{
+	width:100%;
+	margin:0 auto;
+	padding:0;
+	font-size: 12px;
+	line-height: 2em;
+}
+#content th{
+	text-align: left;
+}
+#content ul{
+	width:20em;
+}
+#footer{
+	margin:20px auto 10px auto;
+	text-align: center;
+}
+#topic h1, #topic h2 {
+	font-family:'Microsoft JhengHei';
+	color:#616161;
+}
+#topic h2{
+	font-size: 18px;
+}
+#constpic{
+	width :100%;
+}
+#constpic img{
+	width :100%;
+}
+#member p {
+	font-size: 1.5em;
+	text-indent: 0em;
+	line-height: 1.5em;
+	margin: 0;
+}
+.bw {
+	position: relative;
+	padding: 77px 0px; 
+	background: #52a1d2;
+}
+.expander {
+	float: left;
+	width: 11px;
+	height: 11px;
+	padding: 0 2px;
+	margin: 4px 0 0 -15px;
+	background: url("../images/tree_ltr.gif") no-repeat -194px -27px;
+}
+.exclose {
+	background-position: -192px -3px;
+}
+.container {
+	margin: 0 auto;
+}
+@media screen and (min-width: 768px) {
+	.container, #page, #footer {
+		width: 768px;
+	}
+}
+@media screen and (min-width: 950px){
+
+	.container, #page, #footer {
+		width: 950px;
+	}
+	#swotpic {
+		width: 340px;
+	}
+}
+@media screen and (min-width: 1200px){
+	
+	.container, #page, #footer {
+		width: 1200px;
+    }
+    #swotpic {
+		width: 465px;
+	}
+}
