@@ -34,7 +34,7 @@
 				</td>
 				<td>
 					<div id='topic'>
-<h1>建置中</h1>
+<h1>建置中2</h1>
 					</div>
 				</td>
 			  </tr>
