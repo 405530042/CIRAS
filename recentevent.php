@@ -1,4 +1,5 @@
-	<h1>近期活動</h1>
+    <div id ="recent">
+    <h1>近期活動</h1>
 					<ul>
                     <?php
                         $article_a = mysql_query("select * from articles where article_type='3' or article_type='2' order by year desc, month desc, day desc");
@@ -55,4 +56,4 @@
                         }
                     ?>
                     </ul>
-				</div>
+                    </div>

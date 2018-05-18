@@ -22,7 +22,7 @@
 				</td>
 				<td>
 					<div id='topic'>
-<?php include('recentevent.php'); ?>
+				<?php include("recentevent.php"); ?>
 					</div>
 				</td>
 			  </tr>
