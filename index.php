@@ -22,7 +22,8 @@
 				</td>
 				<td>
 					<div id='topic'>
-				<?php include("recentevent.php"); ?>
+				<?php include('activityandevent/recentevent.php'); ?>
+				<?php include('activityandevent/activity.php'); ?>
 					</div>
 				</td>
 			  </tr>
