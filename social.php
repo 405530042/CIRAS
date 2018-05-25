@@ -22,8 +22,7 @@
 				<td>
 					<div id='topic'>
 						<h1>社會轉型研究群</h1><br>
-
-  		<p>高齡社會，完整人生」。如果沒有能就完整的人類生命歷程做出「妥善的」(全人、全程和全民的)制度安排，當前高齡化趨勢的社會生活將難以持續。當然，這社會經濟後果也會告訴我們，最好的高齡研究和品質的照顧服務提升，也無法讓高齡人口的社會生活和個人生命完整。這就是為什麼我們必須認真地看待轉向的思考高齡社會。1990年代標誌著這一個重要轉略點，無論是美國社會學會的「老年和生命歷程社會學分組」更名衝突落幕底定，還是歐盟的「新社會福利國家」或歐洲社會模式，以及隨後「社會投資國家」的政策倡導和DIAL計畫。</p>
+  		<p>「高齡社會，完整人生」。如果沒有能就完整的人類生命歷程做出「妥善的」(全人、全程和全民的)制度安排，當前高齡化趨勢的社會生活將難以持續。當然，這社會經濟後果也會告訴我們，最好的高齡研究和品質的照顧服務提升，也無法讓高齡人口的社會生活和個人生命完整。這就是為什麼我們必須認真地看待轉向的思考高齡社會。1990年代標誌著這一個重要轉略點，無論是美國社會學會的「老年和生命歷程社會學分組」更名衝突落幕底定，還是歐盟的「新社會福利國家」或歐洲社會模式，以及隨後「社會投資國家」的政策倡導和DIAL計畫。</p>
 
 		<p>轉向的思考，同時意味著必須有思考的轉向。由短期到長期的進程，我們依序提出(1)生命歷程研究的轉向；(2)哲學化理論思考和制度政策分析的共同生產和夥伴關係；(3)在生命歷程與社區工作間，朝向在時間和空間相互構成性社會本體論中進行的人類互動。</p>
 
@@ -32,13 +31,11 @@
 		<p>關鍵詞：高齡化社會、生命歷程、轉銜性風險、制度重組、社區工作和治理</p>
 
 		<center><h1>研究計畫背景</h1></center><br>
-
 		<p>當代高齡化趨勢的擴大，固然是出生率下跌直接帶來的一項結果，但老年平均餘命的延長和青年勞動人口及家庭的被迫外移(到都會或外國)，卻是造成人們對高齡化社會恐慌的實際來源。主流「以年齡群組」做分類和規劃(含蘊年齡歧視Ageism)的社會福利政策與「市場化社會」的政治經濟體制正面臨著「財政赤字」、「人口赤字」和「照顧赤字」的多重複雜難題，並進一步走向掏空公民參與和制度信任的「民主赤字」，打開並鋪平了全球資本金融化新自由主義(操弄著憂懼心理的政治邏輯)對決著國家自我中心民粹主義(揮舞著憎恨心理的政治邏輯)的新極端化政治與超高全球性不穩定的社會經濟情境：一個二十一世紀新的博蘭尼情境(張世雄，2004) ，如博蘭尼(Kal Polanyi)在《巨變》(1944)中感傷地分析現代資本主義在社會與市場間的毀滅性雙向運動。</p>
 
 		<p>名為「轉向」(Re-orientation)的計畫，一面檢視當前社會福利和家庭人口政策的碎斷片面化、被動治標的防衛性策略(defensive)，甚至因個別政策成功卻導致社會性失敗(failure by success)的弔詭後果；一面轉向更具進擊性(offensive)、以動態生命歷程體制觀點，本源性地探討當代工作貧窮家庭、不穩定就業職涯和世襲化不平等問題的交互及積累作用；並打破所謂人口紅利、商品化照顧為服務、活躍老化(Activating ageing)、生產性福利的社會投資等「沒有其他選項」的「就業中心迷思」，批判性地揭露其所構成的貧窮陷阱、低度就業陷阱、或謂家庭陷阱，以及教育到就業的青年停滯轉銜為成年、就業到退休的兩難、工作與家庭的高度失衡、世代相依關係被淡薄化和個體化等危及「就業社會」制度自我存續的全面性、「個人生命轉銜性」(transitional)新社會風險。在跳脫理論失焦和方法論自我侷限之洞窟，「轉向」計畫就是要能同時打破(breaking up)和打開(opening up)「高齡社會與政策研究」的舊觀點和新議題。</p>
 
 		<h1>一個生命歷程的當代場景：生命事件史組成的人口地層位移和人口海嘯</h1><br>
-
 		<p>當政府極力在促進老年的健康和自理能力維持，致力推動樂齡和終生學習，持續開發和延長老年的就業能力或志工服務，但總是顯得十分的後繼無力，甚至不過聊勝於無。專家告訴我們，婦女最佳的生育年齡是在27歲之前。考量我們的法定婚姻年齡18歲，也就是有十年的最佳生育期間。檢查一下當前女性平均結婚年齡和初胎生育年齡，都早已超過30歲了。下一波隨之而上的巨浪，則是舊稱的尼特族(Not in Employment, Education or Training)，還得要再加上沒有離家、經濟不獨立生活。美國研究者提到在新經濟條件下，美國青年首要的生命事件--離家，遭受到了相當大的阻礙。在金融海嘯之後，父母養育0-18歲和18-30歲子女的費用比率，已經不斷地在趨近(Settersten, et. al. 2010: 30-33)。相信我們都不得不正視這個被新經濟條件製造出來、被再一次延長的「第二個童年」(Second Childhood)，相對於現代高等教育擴張帶來的「第一個童年的加長和擴張」。這讓已經不斷延後的婚育行為，更加地被重挫。雖然華人不傾向把<span style="font-weight:bold">離家</span>視為是孩子獨立生活的必要生命事件，但父母養育子女行為被迫不斷的延長及其社會經濟後果，卻一直缺乏適當理論語言來表達和進一步發展出分析工具。</p>
 
 		<p><span style="font-weight:bold">人口地層位移論</span>和<span style="font-weight:bold">人口海嘯論</span>這兩種可比擬自然災害的社會(集體行為造成的)災害理論假說，或許可以提供我們思考和認識社會災害及其回應的啟發性工具。在試圖理解和分析高齡社會歷史構成，及其<span style="font-weight:bold">因果累積、迴力作用和盤旋而上的動態過程<span style="font-weight:bold">中，相較於我稍早先提出的<span style="font-weight:bold">人口海嘯理論假說和第二個童年作用，人口地層位移論</span>能凸顯出個別人類日常生活作息行為的交互堆疊(而非加總)後果，多半發生在我們的日常警覺意識之外，直到我們開始注意到了少子女化及其推向人口年齡結構高齡化的教育延長、婚育和就業延後、第二個童年的轉銜停滯或青年孤鳥外移等一波波構成的人口海嘯作用。在空間和時間構成關係的人文與社會地理層面下，人口海嘯或將進一步造成人口地層位移現象。不過兩者前後相互牽引作用的因果動力，卻是來自生活在社會制度中人類社會行動的累積、堆疊阻礙或轉變創新行為的歷史產物，在資源分配、障礙克服或禁忌被解除等條件下，成功順利、中斷受阻或停滯與倒退在現代制度化的生命歷程通道上。而如何將這些生命歷程事件史的發展軌跡、意義構成與因果路徑展現為可以容易理解、整體觀察和結構分析，就成了二十一世紀經驗社會科學的基本任務。正在發展中的視覺化社會科學分析系統，受到財務能力的嚴重限制，蓬勃的理論想像與願景就只能繼續匍匐前進。</p>
@@ -51,7 +48,7 @@
 
 		<h1>轉向：雙重轉向，和短、中、長期三段式逐步的思考轉向</h1>
 
-		<span style="font-weight:bold">「高齡社會，完整人生」</span>。如果沒有能就完整的人類生命歷程做出「妥善的」(全人、全程和全民的社會和福利體制，張世雄2014)制度安排，當前高齡化趨勢的社會經濟和政治文化生活，將難以持續在資本主義化的全球金融和市場經濟環境中。當然，這個社會經濟後果也會告訴我們，最好的高齡研究和品質的照顧服務提升，也無法讓高齡人口的社會生活和個人生命繼續邁向真正的完整人生。這就是為什麼我們必須認真地看待<span style="font-weight:bold">轉向的思考</span>高齡社會。在啟動<span style="font-weight:bold">高齡社會與生命歷程研究中心</span>(Center for Ageing Society and Life Course, CASLC)的出發點上，這項<<span style="font-weight:bold">轉向計畫</span>致力探索高齡(化)社會、完整(化)人生的知識與行動基礎：在認識和達成個人晚年生命終點的完整性時，要先增進人類生命歷程和社會經濟發展的完整過程。
+		<p><span style="font-weight:bold">「高齡社會，完整人生」</span>。如果沒有能就完整的人類生命歷程做出「妥善的」(全人、全程和全民的社會和福利體制，張世雄2014)制度安排，當前高齡化趨勢的社會經濟和政治文化生活，將難以持續在資本主義化的全球金融和市場經濟環境中。當然，這個社會經濟後果也會告訴我們，最好的高齡研究和品質的照顧服務提升，也無法讓高齡人口的社會生活和個人生命繼續邁向真正的完整人生。這就是為什麼我們必須認真地看待<span style="font-weight:bold">轉向的思考</span>高齡社會。在啟動<span style="font-weight:bold">高齡社會與生命歷程研究中心</span>(Center for Ageing Society and Life Course, CASLC)的出發點上，這項<<span style="font-weight:bold">轉向計畫</span>致力探索高齡(化)社會、完整(化)人生的知識與行動基礎：在認識和達成個人晚年生命終點的完整性時，要先增進人類生命歷程和社會經濟發展的完整過程。</p>
 
 		<p>這一轉向思考的要求和潮流，同時意味著我們必須有<span style="font-weight:bold">思考(上的)轉向</span>。依其急迫性順序，這裡提出三個重要轉向，並經短、中、長期的逐步安排、漸進來發展。第一個正在發生中的轉向，簡單的說，就是從1960年代人口學和貧窮研究之後的<span style="font-weight:bold">高齡(健康)研究</span>，再轉向探索<span style="font-weight:bold">高齡社會</span>的議題。的確，英語世界的高齡(老人學和社會老人學)研究早經歷生命歷程觀點的洗禮。1990年代標誌著這轉略：美國社會學會的「老年和生命歷程社會學分組」的更名衝突事件，經歷七年終於在1997年落幕底定。相對的，<span style="font-weight:bold">福利國家研究</span>伴隨著Anthony Giddens 的第三條路(The Third Way)，由Gosta Esping-Andersen等人執行歐盟委託對<span style="font-weight:bold">歐盟2010里斯本策略</span>提出的新福利國家方案(2002)，到Anton Hemerijck (2013, 2017)等推動的<a href="http://ec.europa.eu/social/main.jsp?langId=en&catId=1044&newsId=1807&furtherNews=yes">社會投資國家</a>，於2013年成為<a href="http://ec.europa.eu/social/main.jsp?catId=750&langId=en">歐盟2020策略</a>中<span style="font-weight:bold">就業、社會事務和包容委員會</span>的政策工具，都建立在生命歷程的觀點來提出政策改革架構。不過就在美國生命歷程研究的過度微觀化(microfication, Hagestad and Dannefer，2001)和福利國家研究的巨觀取向外，德國國家社會政策研究重鎮Bremen大學SOCIUM (2015合併成立<a href="http://www.socium.uni-bremen.de/home/en/">Research Center on Inequality and Social Policy</a>) 和瑞士LIVES(克服脆弱性：生命歷程的觀點)國家頂尖政策研究中心(2011合併成立)都朝向結合制度主義和生命歷程的發展，連結與探索國家制度化生命歷程通道和個人傳記化生命的安排及其後果的脆弱性和不平等的根源。歐盟2017年推出的DIAL計畫(Dynamics of Inequality during the Life Course: structures and processes)就沿著生命歷程，區分為四大主題區塊：早年的影響和結果, 青年轉銜至高等教育、職業訓練和經濟活動，勞動市場和家庭軌跡與不平等的擴大，以及晚年生活的勞動市場參與和退休。也就是說，高齡社會的政策和研究必須把高齡人口的議題，安置和脈絡化在全體社會(人口及其家庭)相互影響的生命歷程動態發展之中。自2008年金融海嘯的經濟震撼後，從英美、歐盟、紐澳和最近東亞(日、韓、中國)共十多國(見附件)，都已逐一設立了生命歷程和高齡社會相關的研究組織，作為探索二十一世紀人類社會轉型議題的前灘堡。我國是否又將重演落後主要國家社會體制和福利政策二十年的宿命(張世雄 1996)，這關鍵時刻已然又來到。</p>
 
@@ -150,75 +147,76 @@
 
 		<center><h1>參考書目(部分)</h1></center>
 
-		<p>行政院 <a href="http://www.ey.gov.tw/state/Default.aspx">中華民國國情簡介</a>: 經濟、社會、文教與休閒、統計圖表。
+		<p>行政院 <a href="http://www.ey.gov.tw/state/Default.aspx">中華民國國情簡介</a>: 經濟、社會、文教與休閒、統計圖表。<br>
 
-張世雄 (1996) 《社會福利理念與社會安全制度》。臺北:唐山出版社。
+張世雄 (1996) 《社會福利理念與社會安全制度》。臺北:唐山出版社。<br>
 
-張世雄 (2004) 〈導論：台灣自由主義的長成和新世紀的挑戰〉。張世雄主編，《社會正義與全球化：福利與自由主義的反思》。台北市：桂冠。
+張世雄 (2004) 〈導論：台灣自由主義的長成和新世紀的挑戰〉。張世雄主編，《社會正義與全球化：福利與自由主義的反思》。台北市：桂冠。<br>
 
-張世雄主編 (2014) 《社會福利概論》。國立空中大學出版社。
+張世雄主編 (2014) 《社會福利概論》。國立空中大學出版社。<br>
 
-張世雄 (2015)〈重申「福利對不平等的作戰」?：財產所有制民主與資產為本社會政策的對話〉。論文發表於「2015年台灣社會學年會暨科技部社會學門成果發表會:社會學想像與另類未來」。台灣社會學會、國立中山大學社會學系主辦，科技部人文社會司協辦。高雄市：國立中山大學社會科學院。
+張世雄 (2015)〈重申「福利對不平等的作戰」?：財產所有制民主與資產為本社會政策的對話〉。論文發表於「2015年台灣社會學年會暨科技部社會學門成果發表會:社會學想像與另類未來」。台灣社會學會、國立中山大學社會學系主辦，科技部人文社會司協辦。高雄市：國立中山大學社會科學院。<br>
 
-張世雄（2016）。〈改變社區是權力的議題，還是能力的問題？從社區育成中心發起社區工作理論和實務的對話〉。張世雄主編《社區培力專刊》。《台灣社區工作與社區研究學刊》，6(2): i-iii。
+張世雄（2016）。〈改變社區是權力的議題，還是能力的問題？從社區育成中心發起社區工作理論和實務的對話〉。張世雄主編《社區培力專刊》。《台灣社區工作與社區研究學刊》，6(2): i-iii。<br>
 
-張世雄（2016）。〈從「社區發展」到「社會企業」？關於社會企業的政策議程和政治想像〉。《社區發展季刊》，154: 82-103。
+張世雄（2016）。〈從「社區發展」到「社會企業」？關於社會企業的政策議程和政治想像〉。《社區發展季刊》，154: 82-103。<br>
 
-張世雄等 (2016)〈當前我國社會福利的制度挑戰和變動中的生命歷程通道：2015年台灣社會福利學會「社會福利政策論壇」系列活動報導〉。《台灣社會福利學刊》13(1)：1-35。
+張世雄等 (2016)〈當前我國社會福利的制度挑戰和變動中的生命歷程通道：2015年台灣社會福利學會「社會福利政策論壇」系列活動報導〉。《台灣社會福利學刊》13(1)：1-35。<br>
 
-Abbott, Andrew (2016) Processual Sociology.University of Chicago Press
+Abbott, Andrew (2016) Processual Sociology.University of Chicago Press<br>
 
-Andrews, Gavin J., David R. Phillips,eds. (2004) Ageing and Place：Perspectives, Policy, Practice (Routledge Studies in Human Geography). Routledge.
+Andrews, Gavin J., David R. Phillips,eds. (2004) Ageing and Place：Perspectives, Policy, Practice (Routledge Studies in Human Geography). Routledge.<br>
 
-Andrews, Gavin J., Malcolm Cutchinb , Kevin McCrackenc , David R. Phillipsd , Janine Wilese (2007) Geographical Gerontology: The constitution of a discipline. Social Science & Medicine 65：151–168.
+Andrews, Gavin J., Malcolm Cutchinb , Kevin McCrackenc , David R. Phillipsd , Janine Wilese (2007) Geographical Gerontology: The constitution of a discipline. Social Science & Medicine 65：151–168.<br>
 
-Andrews, Gavin J., Christine Milligan, David R. Phillips and Mark W. Skinner (2009) Geographical Gerontology: Mapping a Disciplinary Intersection. Geography Compass 3(5): 1641–1659, 10.1111/j.1749-8198.2009.00270.x.
+Andrews, Gavin J., Christine Milligan, David R. Phillips and Mark W. Skinner (2009) Geographical Gerontology: Mapping a Disciplinary Intersection. Geography Compass 3(5): 1641–1659, 10.1111/j.1749-8198.2009.00270.x.<br>
 
-Bargu,Banu and ‎Chiara Bottici, eds. (2017) Feminism, Capitalism, and Critique: Essays in Honor of Nancy Fraser. Springer.
+Bargu,Banu and ‎Chiara Bottici, eds. (2017) Feminism, Capitalism, and Critique: Essays in Honor of Nancy Fraser. Springer.<br>
 
-Bellah, Robert N., Richard Madsen, William M. Sullivan, Ann Swidler, Steven M. Tipton (1985) Habits of the Heart: Individualism and Commitment in American Life. University of Califoria Press
+Bellah, Robert N., Richard Madsen, William M. Sullivan, Ann Swidler, Steven M. Tipton (1985) Habits of the Heart: Individualism and Commitment in American Life. University of Califoria Press<br>
 
-Bercuson, Jeffrey (2014) John Rawls and the History of Political Thought: The Rousseauvian and Hegelian Heritage of Justice as Fairness. Routledge.
+Bercuson, Jeffrey (2014) John Rawls and the History of Political Thought: The Rousseauvian and Hegelian Heritage of Justice as Fairness. Routledge.<br>
 
-David, Matthew (2017) Sharing: Crime Against Capitalism. Wiley.
+David, Matthew (2017) Sharing: Crime Against Capitalism. Wiley.<br>
 
-Del Casino, Vincent J. (2013) Social Geography: A Critical Introduction. Wiley-Blackwell.
+Del Casino, Vincent J. (2013) Social Geography: A Critical Introduction. Wiley-Blackwell.<br>
 
-Edmundson, William A. (2017) John Rawls: Reticent Socialist. Cambridge University Press.
+Edmundson, William A. (2017) John Rawls: Reticent Socialist. Cambridge University Press.<br>
 
-Fraser, Nancy (2013) Fortunes of Feminism: From State-Managed Capitalism to Neoliberal Crisis. Verso.
+Fraser, Nancy (2013) Fortunes of Feminism: From State-Managed Capitalism to Neoliberal Crisis. Verso.<br>
 
-Gusterson, Hugh and Catherine Besteman, eds. (2010) The Insecure American: How We Got Here and What We Should Do About It. University of Califoria Press.
+Gusterson, Hugh and Catherine Besteman, eds. (2010) The Insecure American: How We Got Here and What We<br>
+Should Do About It. University of Califoria Press.<br>
 
-Hagestad, G. and Dannefer, D. (2001) ‘Concepts and Theories of Aging: Beyond Microfication in Social Science Approaches’, Ch. 1 in R. Binstock, and L. George, (eds) Handbook of Aging and the Social Sciences, 5th ed., New York: Academic.
+Hagestad, G. and Dannefer, D. (2001) ‘Concepts and Theories of Aging: Beyond Microfication in Social Science Approaches’, Ch. 1 in R. Binstock, and L. George, (eds) Handbook of Aging and the Social Sciences, 5th ed., New York: Academic.<br>
 
-Hall, Peter (1993) Policy Paradigms, Social Learning, and the State. Comparative Politics, 25: 275-296.
+Hall, Peter (1993) Policy Paradigms, Social Learning, and the State. Comparative Politics, 25: 275-296.<br>
 
-Harper, Sarah and Kate Hamblin, eds. (2014) International Handbook on Ageing and Public Policy. Edward Elgar Publishing.
+Harper, Sarah and Kate Hamblin, eds. (2014) International Handbook on Ageing and Public Policy. Edward Elgar Publishing.<br>
 
-Hemerijck, Anton (2017) The Uses of Social Investment. Oxford University Press.
+Hemerijck, Anton (2017) The Uses of Social Investment. Oxford University Press.<br>
 
-Honneth, Axel (2014) Freedom's Right. The Social Foundations of Democratic Life. Polity.
+Honneth, Axel (2014) Freedom's Right. The Social Foundations of Democratic Life. Polity.<br>
 
-Jones, Andrew Michael orcid.org/0000-0003-4114-1785 (2017) Data visualization and health econometrics. Foundations and Trends in Econometrics.
+Jones, Andrew Michael orcid.org/0000-0003-4114-1785 (2017) Data visualization and health econometrics. Foundations and Trends in Econometrics.<br>
 
 Marshall, Victor W. (2008) <a href="https://www.researchgate.net/publication/252097746_ICT_and_the_Social_Inclusion_of_Older_Adults_Can_the_Social_Sciences_Contribute_to_New_Solutions_to_Old_Problems">ICT and the Social Inclusion of Older Adults: Can the Social Sciences Contribute to New Solutions to Old Problems</a>? Opening lecture for the Socio-Anthropological Workshop, Project, “The Social, Ethical and Privacy Needs in ICT for Older People: Dialogue for a Roadmap”, Brussels, Belgium, June 2-3, 2008.
+Nussbaum, Martha C. (2012) The New Religious Intolerance: Overcoming the Politics of Fear in an Anxious Age. The Belknap Press of Harvard University Press.<br>
 
-Nussbaum, Martha C. (2012) The New Religious Intolerance: Overcoming the Politics of Fear in an Anxious Age. The Belknap Press of Harvard University Press.
+O'Neill, Martin and Thad Williamson, eds. (2012)  Property-Owning Democracy: Rawls and Beyond. Wiley-Blackwell.<br>
 
-O'Neill, Martin and Thad Williamson, eds. (2012)  Property-Owning Democracy: Rawls and Beyond. Wiley-Blackwell.
+Settersten, Richard A., Jr. and Barbara Ray (2010) What’s Going on with Young People Today? The Long and Twisting Path to Adulthood. The Future of Children 20(1): 19-41.<br>
 
-Settersten, Richard A., Jr. and Barbara Ray (2010) What’s Going on with Young People Today? The Long and Twisting Path to Adulthood. The Future of Children 20(1): 19-41.
+Settersten, Richard A., Jr. and Jacqueline L. Angel (2011) Trends in the Sociology of Aging: Thirty Year Observations, in Richard A. Settersten, Jr. and Jacqueline L. Angel, eds., Handbook of Sociology of Aging. Springer.<br>
 
-Settersten, Richard A., Jr. and Jacqueline L. Angel (2011) Trends in the Sociology of Aging: Thirty Year Observations, in Richard A. Settersten, Jr. and Jacqueline L. Angel, eds., Handbook of Sociology of Aging. Springer.
+Skinner, Mark W., Gavin J. Andrews, Malcolm P. Cutchin, eds. (2018) Geographical Gerontology: Perspectives, Concepts, Approaches. Routledge.<br>
 
-Skinner, Mark W., Gavin J. Andrews, Malcolm P. Cutchin, eds. (2018) Geographical Gerontology: Perspectives, Concepts, Approaches. Routledge.
+Standing, Guy (2017) Basic Income: And How We Can Make It Happen. Penguin.<br>
 
-Standing, Guy (2017) Basic Income: And How We Can Make It Happen. Penguin.
+Thomas, Alan (2017) Republic of Equals: Predistribution and Property-owning Democracy. Oxford University Press.<br>
 
-Thomas, Alan (2017) Republic of Equals: Predistribution and Property-owning Democracy. Oxford University Press.
-
-Van Parijs, Philippe and Yannick Vanderborght (2017) Basic Income: A Radical Proposal for a Free Society and a Sane Economy. Harvard University Press. </p>
+Van Parijs, Philippe and Yannick Vanderborght (2017) Basic Income: A Radical Proposal for a Free Society and a Sane Economy. Harvard University Press.<br>
+ </p>
 
 					</div>
 				</td>
