@@ -20,7 +20,7 @@
 			<li><a href="scwibc.php">強化與國際標竿中心合作</a></li>
 			<li><div class="expander exclose"></div><a href="ards.php">學術研究發展策略</a>
 			  <ul style="display:none;">
-				<li><a href="../social.php">社會轉型研究群</a></li>
+				<li><a href="social.php">社會轉型研究群</a></li>
 				<li><a>高齡生理、心理、認知與運動健康研究群</a></li>
 				<li><a>生活科技與照護科技研究群</a></li>
 			  </ul>
