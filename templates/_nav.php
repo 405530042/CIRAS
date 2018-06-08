@@ -1,14 +1,14 @@
 <div id="head">
 	<div class="container">
-			<div id="head_icon">
-				<a href="http://agei.ccu.edu.tw/CIRAS"><img src="images/logo.png" height="75" style="margin:30px 0"></a>
-			</div>
-	</div>
-	<div class="container">
 		<div id="head_txt">
 				<div id="upon">
 					<?php include('templates/_upon.php'); ?>
     			</div>
+    	</div>
+		<div id="head_icon">
+			<a href="http://agei.ccu.edu.tw/CIRAS"><img src="images/logo.png" height="75" style="margin:11px 0"></a>
+		</div>
+    	<div id="head_txt">
 				<div id="nav">
 					<ul>
 						<li><a href="http://agei.ccu.edu.tw/news1.php" target="_blank">最新消息</a></li>
