@@ -54,7 +54,7 @@ a {
 	float: right;
 }
 #nav{
-	margin :75px auto 0px auto;
+	margin :5px auto 0px auto;
 }
 #nav ul{
 	border-bottom: 1px solid rgba(0,0,0,0.08);
@@ -68,8 +68,8 @@ a {
 	color: #222;
 	font-size:16px;
     font-weight: 600;
-	margin:0 3px;
-	padding:0px 10px;
+	//margin:0 0px;
+	padding:0px 12px;
 }
 #nav ul li:hover{
 	border-bottom:2px solid #52a1d2;
@@ -83,7 +83,7 @@ a {
 	text-decoration: none;
 }
 #upon{
-	padding-left: 310px;
+	float : right;
 }
 #upon ul{
 	display: flex;
@@ -216,5 +216,8 @@ a {
 	}
 	#recent ul{
 		width: 1200px;
+	}
+	#nav{
+		margin :55px auto 0px auto;
 	}
 }
