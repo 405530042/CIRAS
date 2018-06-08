@@ -13,8 +13,10 @@
 	<div id="page">
 		<div id="content">
 			<div id='topic'>
-<?php include('recentevent.php'); ?>
-<?php include('act.php');?>
+				<?php include('article.php'); ?>
+			</div>
+			<div id='topic'>
+				<?php include('activity.php'); ?>
 			</div>
 		</div>
 	</div>
