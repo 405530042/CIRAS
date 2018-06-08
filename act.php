@@ -1,69 +1,59 @@
     <div id ="recent">
-                <?php 
-                    function date_cmp($thisdate){
-                        $todate = date('Y-m-d');
-                        if(strtotime($todate)>strtotime($thisdate))
-                            $print = "";
-                        else
-                            $print = "list-style-image:url('images/new.gif');";
-                        return $print;
-                    }
-                ?>
-    <h1><a href="http://agei.ccu.edu.tw/news1.php" target="_blank" style="color:#616161;">活動公告</a></h1>
+    <h1><a href="http://agei.ccu.edu.tw/activity2.php" target="_blank" style="color:#616161;">活動紀實</a></h1>
                     <ul>
                     <?php
-                    $article = mysql_query("select * from articles where article_type='3' and sticktop='1' order by year desc, month desc, day desc");
-                    $article_c = mysql_query("select * from articles where article_type='3' and sticktop='0' order by year desc, month desc, day desc");
-                    $num = mysql_num_rows($article);
-                    $num_c = mysql_num_rows($article_c);
-                    if(($num+$num_c) == 0){
+                    $article_a = mysql_query("select * from articles where article_type='3' and sticktop='1' order by year desc, month desc, day desc");
+                    $article_b = mysql_query("select * from articles where article_type='3' and sticktop='0' order by year desc, month desc, day desc");
+                    $num_a = mysql_num_rows($article_a);
+                    $num_b = mysql_num_rows($article_b);
+                    if(($num_a+$num_b) == 0){
                 ?>
                 <li><a href="#">尚無資訊</a></li>
                 <?php
                     }else{
-                        if($num > 5) {
-                                $num = 5;    
+                        if($num_a > 5) {
+                                $num_a = 5;    
                         }
-                        $num_c=5-$num;
-                        for($i=1;$i<=$num;$i++){
-                            $article_content = mysql_fetch_assoc($article);
-                            $id = $article_content['id'];
-                            $article_title = $article_content['title'];
-                            $type = $article_content['article_type'];
-                            $year = $article_content['year'];
-                            $month = $article_content['month'];
+                        $num_b=5-$num_a;
+                        for($i=1;$i<=$num_a;$i++){
+                            $article_content_a = mysql_fetch_assoc($article_a);
+                            $id = $article_content_a['id'];
+                            $article_title_a = $article_content_a['title'];
+                            $type = $article_content_a['article_type'];
+                            $year = $article_content_a['year'];
+                            $month = $article_content_a['month'];
                             $month_r = sprintf("%02d",$month);
-                            $day = $article_content['day'];
+                            $day = $article_content_a['day'];
                             $day_r = sprintf("%02d",$day);
                             $thisdate = $year.'-'.$month_r.'-'.$day_r;
                             if($i==1){
                     ?>
-                            <li style="border-top-style:dotted;border-top-width:1px;border-bottom-color: #a0a0a0;padding-top: 8px;padding-bottom: 8px; color:#9aa197;font-weight:bold;<?php echo date_cmp($thisdate); ?>"><?php echo $year,'/',$month_r,'/',$day_r,'&nbsp;&nbsp;<a href="../news1.php?article_id=',$id,'">',$article_title, '</a>'; ?></li>
+                            <li style="border-top-style:dotted;border-top-width:1px;border-bottom-color: #a0a0a0;padding-top: 8px;padding-bottom: 8px; color:#9aa197;font-weight:bold;<?php echo date_cmp($thisdate); ?>"><?php echo $year,'/',$month_r,'/',$day_r,'&nbsp;&nbsp;<a href="../news1.php?article_id=',$id,'">',$article_title_a, '</a>'; ?></li>
                     <?php
                             }else{
                     ?>
-                            <li style="border-top-style:dotted;border-top-width:1px;border-bottom-color: #a0a0a0;padding-top: 8px;padding-bottom: 8px; color:#9aa197;font-weight:bold;<?php echo date_cmp($thisdate); ?>"><?php echo $year,'/',$month_r,'/',$day_r,'&nbsp;&nbsp;<a href="../news1.php?article_id=',$id,'">',$article_title, '</a>'; ?></li>
+                            <li style="border-top-style:dotted;border-top-width:1px;border-bottom-color: #a0a0a0;padding-top: 8px;padding-bottom: 8px; color:#9aa197;font-weight:bold;<?php echo date_cmp($thisdate); ?>"><?php echo $year,'/',$month_r,'/',$day_r,'&nbsp;&nbsp;<a href="../news1.php?article_id=',$id,'">',$article_title_a, '</a>'; ?></li>
                     <?php
                             }
                         }
-                        for($i=1;$i<=$num_c;$i++){
-                            $article_content_c = mysql_fetch_assoc($article_c);
-                            $id = $article_content_c['id'];
-                            $article_title_c = $article_content_c['title'];
-                            $type = $article_content_c['article_type'];
-                            $year = $article_content_c['year'];
-                            $month = $article_content_c['month'];
+                        for($i=1;$i<=$num_b;$i++){
+                            $article_content_b = mysql_fetch_assoc($article_b);
+                            $id = $article_content_b['id'];
+                            $article_title_b = $article_content_b['title'];
+                            $type = $article_content_b['article_type'];
+                            $year = $article_content_b['year'];
+                            $month = $article_content_b['month'];
                             $month_r = sprintf("%02d",$month);
-                            $day = $article_content_c['day'];
+                            $day = $article_content_b['day'];
                             $day_r = sprintf("%02d",$day);
                             $thisdate = $year.'-'.$month_r.'-'.$day_r;
-                            if($num==0 && $i==1){
+                            if($num_a==0 && $i==1){
                     ?>
-                            <li style="border-top-style:dotted;border-top-width:1px;border-bottom-color: #a0a0a0;padding-top: 8px;padding-bottom: 8px; color:#9aa197;font-weight:bold;<?php echo date_cmp($thisdate); ?>"><?php echo $year,'/',$month_r,'/',$day_r,'&nbsp;&nbsp;<a href="../news1.php?article_id=',$id,'">',$article_title_c, '</a>'; ?></li>
+                            <li style="border-top-style:dotted;border-top-width:1px;border-bottom-color: #a0a0a0;padding-top: 8px;padding-bottom: 8px; color:#9aa197;font-weight:bold;<?php echo date_cmp($thisdate); ?>"><?php echo $year,'/',$month_r,'/',$day_r,'&nbsp;&nbsp;<a href="../news1.php?article_id=',$id,'">',$article_title_b, '</a>'; ?></li>
                     <?php
                             }else{
                     ?>
-                            <li style="border-top-style:dotted;border-top-width:1px;border-bottom-color: #a0a0a0;padding-top: 8px;padding-bottom: 8px; color:#9aa197;font-weight:bold;<?php echo date_cmp($thisdate); ?>"><?php echo $year,'/',$month_r,'/',$day_r,'&nbsp;&nbsp;<a href="../news1.php?article_id=',$id,'">',$article_title_c, '</a>'; ?></li>
+                            <li style="border-top-style:dotted;border-top-width:1px;border-bottom-color: #a0a0a0;padding-top: 8px;padding-bottom: 8px; color:#9aa197;font-weight:bold;<?php echo date_cmp($thisdate); ?>"><?php echo $year,'/',$month_r,'/',$day_r,'&nbsp;&nbsp;<a href="../news1.php?article_id=',$id,'">',$article_title_b, '</a>'; ?></li>
                     <?php
                             }
                         }
