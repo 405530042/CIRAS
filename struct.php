@@ -32,7 +32,7 @@
 		</div>
 	</div>
 	<div id="footer">
-<?php include("templates/footer.php"); ?>
+<?php include("templates/_footer.php"); ?>
 	</div>	
 </body>
 <script type="text/javascript">

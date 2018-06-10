@@ -13,15 +13,15 @@
 	<div id="page">
 		<div id="content">
 			<div id='topic'>
-				<?php include('article.php'); ?>
+				<?php include('templates/_article.php'); ?>
 			</div>
 			<div id='topic'>
-				<?php include('activity.php'); ?>
+				<?php include('templates/_activity.php'); ?>
 			</div>
 		</div>
 	</div>
 	<div id="footer">
-		<?php include("templates/footer.php"); ?>
+		<?php include("templates/_footer.php"); ?>
 	</div>
 </body>
 <script type="text/javascript">

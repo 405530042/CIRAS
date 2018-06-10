@@ -225,7 +225,7 @@ Van Parijs, Philippe and Yannick Vanderborght (2017) Basic Income: A Radical Pro
 		</div>
 	</div>
 	<div id="footer">
-<?php include("templates/footer.php"); ?>
+<?php include("templates/_footer.php"); ?>
 	</div>	
 </body>
 <script type="text/javascript">
