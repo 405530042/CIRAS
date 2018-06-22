@@ -21,21 +21,20 @@
 				</td>
 				<td>
 					<div id='topic'>
-<h1>學術研究規劃</h1>
+<h1>學術研究</h1>
+<br>
 					<div id="constpic">
 						<img src="images/acre.jpg">
 					</div>
-<h1>社會轉型研究群</h1>
-<p style="text-indent: 0em">●研究特色</p>
+<br>
+<h1 style="color: #cc0000">社會轉型研究群</h1>
 <p>-關注全人生命歷程</p>
 <p>-活化社區生態體系</p>
 
-<h1>高齡生理、心理、認知與運動健康研究群</h1>
-<p style="text-indent: 0em">●研究特色</p>
+<h1 style="color: #cc0000">高齡生理、心理、認知與運動健康研究群</h1>
 <p>-基礎研究與社區應用實踐相輔相成</p>
 
-<h1>生活健康與照護科技研究群</h1>
-<p style="text-indent: 0em">●研究特色</p>
+<h1 style="color: #cc0000">生活健康與照護科技研究群</h1>
 <p>-尖端科技輔助社區照護與健康生活</p>
 
 					</div>

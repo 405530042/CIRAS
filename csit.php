@@ -12,19 +12,34 @@
 	</div>
 	<div id="page">
 		<div id="content">
-			<div id='topic'>
-				<div id="recent">
-					<h1>文件下載</h1>
-					<ul>
-						<li><a href="http://agei.ccu.edu.tw/CIRAS/uploads/files/大專校院高等教育深耕計畫經費使用原則.pdf">大專校院高等教育深耕計畫經費使用原則.pdf</a></li>
-						<li><a href="http://agei.ccu.edu.tw/CIRAS/uploads/files/國立中正大學高齡跨域創新研究中心彈性薪資獎勵推薦辦法.pdf">國立中正大學高齡跨域創新研究中心彈性薪資獎勵推薦辦法.pdf</a></li>
-					</ul>
-					<hr>
-					<ul>
-						<li><a href="http://agei.ccu.edu.tw/CIRAS/uploads/files/高齡跨域創新研究中心彈性薪資獎勵推薦申請書及成果統計表.doc">高齡跨域創新研究中心彈性薪資獎勵推薦申請書及成果統計表.doc</a></li>
-					</ul>
-				</div>
-			</div>
+			<table>
+			  <tr>
+				<td>
+					<div id="list">
+						<?php include('templates/_list_training.php'); ?>
+					</div>
+				</td>
+				<td>
+					<div id='topic'>
+<h1>培育高齡產業與相關服務人才</h1>
+
+<br>
+<h1 style="color:#cc0000">延攬優秀人才</h1>
+<p>-研究員與博士後研究制度</p>
+<p>-國內外優秀學者駐校研究</p>
+<p>-獎勵研究績優人員</p>
+<p>-建立跨校研究社群</p>
+
+<h1 style="color:#cc0000">培育高階研發人才</h1>
+<p>-碩博士生高齡跨域學術<span style="color: #cc0000">研究輔導計畫</span>與高齡跨域研究<span style="color: #cc0000">碩博士學位學程</span></p>
+<p>-籌辦高齡跨域創新實踐(大學部)學程及EMCA碩士專班</p>
+<p>-社區人才培力</p>
+<p>-在職進修與研習工作坊</p>
+
+					</div>
+				</td>
+			  </tr>
+			</table>
 		</div>
 	</div>
 	<div id="footer">

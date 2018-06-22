@@ -33,11 +33,11 @@
 <p style="text-indent: 0em; color:#c45911">1. On paper(Problem-Solution Fit): 思考</p>
 <p>-確認假設: 實驗室的作用</p>
 
-<p style="text-indent: 0em; color:#c45911">2. In the market(Product-Market Fit)</p>
+<p style="text-indent: 0em; color:#c45911">2. In the market(Product-Market Fit): 驗證</p>
 <p>-證明顧客在乎特定任務、痛點和獲益</p>
 <p>-設計出呼應這些任務、痛點和獲益的價值主張</p>
 
-<p style="text-indent: 0em; color:#c45911">3. In the bank(Business Model Fit)</p>
+<p style="text-indent: 0em; color:#c45911">3. In the bank(Business Model Fit): 營運</p>
 <p>-找到證據證明你的價值主張能夠遷入一個可擴展、可獲利的商業模式中</p>
 <p>-生態系之建立</p>
 
