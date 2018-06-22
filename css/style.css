@@ -36,9 +36,9 @@ a {
 
 #head_img{
 	display: flex;
-			height:405px;
+			height:265px;
 	margin: 30px 0 20px 0;
-		background-image: url("../images/headicon.png") ;
+		background-image: url("../images/headicon.png");
 		background-repeat: no-repeat;
 		background-position:top;
 		text-align:center;
@@ -71,9 +71,9 @@ a {
 	padding:0px 12px;
 	position: relative;
 	float: left;
+	white-space: nowrap;
 }
 #nav ul li ul{
-	width: 100%;
 	position: absolute;
 	left: 0px;
 	top: 32px;
@@ -106,13 +106,14 @@ a {
 #list{
 	margin:26px auto 0 auto;
 	padding: 0 0 0 16px;
-	font-size: 12px;
+	font-size: 16px;
 }
 #list ul {
+	width:20em;
 	padding: 0;
 }
 #list ul li {
-	margin: 2px 0;
+	margin: 8px 0;
 	font-weight:bold;
 }
 #list ul ul li {
@@ -143,9 +144,6 @@ a {
 }
 #content th{
 	text-align: left;
-}
-#content ul{
-	width:20em;
 }
 #footer{
 	margin:20px auto 10px auto;
@@ -181,10 +179,10 @@ a {
 	height: 11px;
 	padding: 0 2px;
 	margin: 4px 0 0 -15px;
-	background: url("../images/tree_ltr.gif") no-repeat -194px -27px;
+	background: url("../images/tree_ltr.gif") no-repeat -192px -3px;
 }
 .exclose {
-	background-position: -192px -3px;
+	background-position: -194px -27px;
 }
 .container {
 	margin: 0 auto;
@@ -214,10 +212,10 @@ a {
 		width: 768px;
 	}
 	#recent ul{
-		width: 768px;
+		width: 708px;
 	}
 }
-@media screen and (min-width: 950px){
+@media screen and (min-width: 970px){
 
 	.container, #page, #footer {
 		width: 950px;
@@ -226,7 +224,7 @@ a {
 		width: 340px;
 	}
 	#recent ul{
-		width: 950px;
+		width: 910px;
 	}
 }
 @media screen and (min-width: 1200px){
@@ -238,7 +236,7 @@ a {
 		width: 465px;
 	}
 	#recent ul{
-		width: 1200px;
+		width: 1140px;
 	}
 	#nav{
 		margin :55px auto 0px auto;
