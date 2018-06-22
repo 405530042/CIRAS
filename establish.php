@@ -16,26 +16,16 @@
 			  <tr>
 				<td>
 					<div id="list">
-						<?php include('templates/_list_training.php'); ?>
+						<?php include('templates/_list.php'); ?>
 					</div>
 				</td>
 				<td>
 					<div id='topic'>
-<h1>人才培育規劃</h1>
-
-<br>
-<h1 style="color:#cc0000">延攬優秀人才</h1>
-<p>-研究員與博士後研究制度</p>
-<p>-國內外優秀學者駐校研究</p>
-<p>-獎勵研究績優人員</p>
-<p>-建立跨校研究社群</p>
-
-<h1 style="color:#cc0000">培育高階研發人才</h1>
-<p>-碩博士生高齡跨域學術<span style="color: #cc0000">研究輔導計畫</span>與高齡跨域研究<span style="color: #cc0000">碩博士學位學程</span></p>
-<p>-籌辦高齡跨域創新實踐(大學部)學程及EMCA碩士專班</p>
-<p>-社區人才培力</p>
-<p>-在職進修與研習工作坊</p>
-
+<h1>成立宗旨</h1>
+						<div id="constpic">
+							<img src="images/purpose.png">
+							<img src="images/center.jpg">
+						</div>
 					</div>
 				</td>
 			  </tr>

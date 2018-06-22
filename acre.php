@@ -16,16 +16,28 @@
 			  <tr>
 				<td>
 					<div id="list">
-						<?php include('templates/_list_inco.php'); ?>
+						<?php include('templates/_list_acre.php'); ?>
 					</div>
 				</td>
 				<td>
 					<div id='topic'>
-<h1>國際合作發展策略</h1>
-<p>1.跨國合作研究計畫</p>
-<p>2.國際會議與移地研究</p>
-<p>3.國際產學交流研討會</p>
-<p>4.國外學者駐地研究與輔導</p>
+<h1>學術研究規劃</h1>
+					<div id="constpic">
+						<img src="images/acre.jpg">
+					</div>
+<h1>社會轉型研究群</h1>
+<p style="text-indent: 0em">●研究特色</p>
+<p>-關注全人生命歷程</p>
+<p>-活化社區生態體系</p>
+
+<h1>高齡生理、心理、認知與運動健康研究群</h1>
+<p style="text-indent: 0em">●研究特色</p>
+<p>-基礎研究與社區應用實踐相輔相成</p>
+
+<h1>生活健康與照護科技研究群</h1>
+<p style="text-indent: 0em">●研究特色</p>
+<p>-尖端科技輔助社區照護與健康生活</p>
+
 					</div>
 				</td>
 			  </tr>
@@ -37,20 +49,6 @@
 	</div>
 </body>
 <script type="text/javascript">
-	/*$(function(){
-		// nav 預設顯示第一個 Tab
-		var _showTab = 0;
-		var $defaultLi = $('#nav ul li').eq(_showTab).addClass('active');
-		// 當 li 頁籤被點擊時...
-		$('#nav ul li').click(function() {
-			var $this = $(this),
-				_clickTab = $this.find('a').attr('href');
-			$this.addClass('active').siblings('.active').removeClass('active');
-			return false;
-		}).find('a').focus(function(){
-			this.blur();
-		});
-	});*/
 	$(document).ready(function(){
 		$(".expander").click(function(){
 			var $p = $(this).parent('li');
