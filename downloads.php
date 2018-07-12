@@ -16,12 +16,33 @@
 				<div id="recent">
 					<h1>文件下載</h1>
 					<ul>
-						<li><a href="http://agei.ccu.edu.tw/CIRAS/uploads/files/大專校院高等教育深耕計畫經費使用原則.pdf">大專校院高等教育深耕計畫經費使用原則.pdf</a></li>
-						<li><a href="http://agei.ccu.edu.tw/CIRAS/uploads/files/國立中正大學高齡跨域創新研究中心彈性薪資獎勵推薦辦法.pdf">國立中正大學高齡跨域創新研究中心彈性薪資獎勵推薦辦法.pdf</a></li>
+					<?php
+						$file = mysql_query("select * from ciras_files where file_section='0' order by id asc");
+						for($i=1;$i<=mysql_num_rows($file);$i++){
+							$file_content = mysql_fetch_assoc($file);
+							$file_name = $file_content['file_name'];
+					?>
+							<form action="" method="post">
+							<li><?php echo '<a href="../../CIRAS/uploads/files/',$file_name,'" target="_blank">',$file_name, '</a>'; ?></li>
+							</form>
+					<?php
+						}
+					?>
 					</ul>
 					<hr>
 					<ul>
-						<li><a href="http://agei.ccu.edu.tw/CIRAS/uploads/files/高齡跨域創新研究中心彈性薪資獎勵推薦申請書及成果統計表.doc">高齡跨域創新研究中心彈性薪資獎勵推薦申請書及成果統計表.doc</a></li>
+					<?php
+						$file1 = mysql_query("select * from ciras_files where file_section='1' order by id desc");
+						for($j=1;$j<=mysql_num_rows($file1);$j++){
+							$file1_content = mysql_fetch_assoc($file1);
+							$file1_name = $file1_content['file_name'];
+					?>
+							<form action="" method="post">
+							<li><?php echo '<a href="../../CIRAS/uploads/files/',$file1_name,'" target="_blank">',$file1_name, '</a>'; ?></li>
+							</form>
+					<?php
+						}
+					?>
 					</ul>
 				</div>
 			</div>
