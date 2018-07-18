@@ -8,8 +8,8 @@
 			<li><a href="struct.php">總體營運</a>
 		 	<ul>
 				<li><a href="target.php">目標設定</a></li>
-				<li><a>經營策略</a></li>
-				<li><a>成果展示</a></li>
+				<li><a href="stradgey.php">經營策略</a></li>
+				<li><a href="display.php">成果展示</a></li>
 				<li><a>預期貢獻</a></li>
 		  	</ul>
 			</li>

@@ -20,7 +20,7 @@
 							</ul>
 						</li>
 						<li><a href="about.php">關於中心</a></li>
-						<li><a href="pec.php">產學合作</a></li>
+						<li><a href="iaie.php">產學合作</a></li>
 						<li><a href="training.php">人才培育</a></li>
 						<li><a href="inco.php">國際交流</a></li>
 						<li><a href="acre.php">學術研究</a></li>
