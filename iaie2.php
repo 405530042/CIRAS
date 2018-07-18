@@ -16,31 +16,32 @@
 			  <tr>
 				<td>
 					<div id="list">
-						<?php include('templates/_list.php'); ?>
+						<?php include('templates/_list_pec.php'); ?>
 					</div>
 				</td>
 				<td>
-				<div id='topic'>
-					<h1>中心架構</h1>
+					<div id='topic'>
+<h1>聯盟整體架構</h1>
 						<div id="constpic">
-							<img src="images/const2.png">
+							<img src="images/iaoa.png">
+						</div>
+<h2><img src="images/checkicon.png"> 中正大學內部資源</h2>
+						<div id="constpic">
+							<img src="images/iaoa2.png">
+						</div>
+<h2><img src="images/checkicon.png"> 學研合作對象</h2>
+						<div id="constpic">
+							<img src="images/iaoa3.png">
+						</div>
+<h2><img src="images/checkicon.png"> 產學研顧問</h2>
+						<div id="constpic">
+							<img src="images/iaoa4.png">
+						</div>
+<h2><img src="images/checkicon.png"> 產業合作對象</h2>
+						<div id="constpic">
+							<img src="images/iaoa5.png">
 						</div>
 					</div>
-						<div id='topic'>
-					<h1>成員簡介</h1>
-						<div id="constpic">
-							<img src="images/center.jpg">
-						</div>
-					</div>
-						<div id='topic'>
-					<h1>參與教師群</h1>
-						<div id="constpic">
-							<img src="images/researcher1.png">
-						</div>
-						</div>
-							<div id="constpic">
-							<img src="images/researcher2.png">
-						</div>
 				</td>
 			  </tr>
 			</table>
@@ -51,20 +52,6 @@
 	</div>
 </body>
 <script type="text/javascript">
-	/*$(function(){
-		// nav 預設顯示第一個 Tab
-		var _showTab = 0;
-		var $defaultLi = $('#nav ul li').eq(_showTab).addClass('active');
-		// 當 li 頁籤被點擊時...
-		$('#nav ul li').click(function() {
-			var $this = $(this),
-				_clickTab = $this.find('a').attr('href');
-			$this.addClass('active').siblings('.active').removeClass('active');
-			return false;
-		}).find('a').focus(function(){
-			this.blur();
-		});
-	});*/
 	$(document).ready(function(){
 		$(".expander").click(function(){
 			var $p = $(this).parent('li');
